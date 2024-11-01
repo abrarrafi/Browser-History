@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Constants
-API_KEY = "bdc95207-6a0f-4b8c-8fe1-782e5d595b612024"  # Replace with your Companies House API key
+API_KEY = ""  # Replace with your Companies House API key
 BASE_URL = "https://api.company-information.service.gov.uk"
 
 # Input criteria
